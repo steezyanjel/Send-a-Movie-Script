@@ -1,4 +1,4 @@
-targetBuddyPhone='‭+‭1234567890'
+targetBuddyPhone='‭+‭17145863703'
 
 while read targetMessage; do
 echo $targetMessage
